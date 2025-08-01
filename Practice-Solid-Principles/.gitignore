@@ -1,0 +1,22 @@
+# Maven
+/target/
+
+# IntelliJ
+*.iml
+.idea/
+*.iws
+*.ipr
+out/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PDF files
+*.pdf
